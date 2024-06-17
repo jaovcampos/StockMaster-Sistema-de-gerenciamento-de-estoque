@@ -1,0 +1,33 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build directories
+/build
+/CMakeFiles
+
+# CMake specific files
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+
+# Other files to ignore
+.idea
+.vscode
