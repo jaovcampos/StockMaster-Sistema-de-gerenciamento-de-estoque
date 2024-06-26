@@ -1,0 +1,5 @@
+{
+    "cmake.configureSettings": {
+        "cmake.buildDirectory": "${workspaceFolder}/build"
+    }
+}
